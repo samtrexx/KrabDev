@@ -1,1 +1,2 @@
 # KrabDev
+Misión: Generar un programa web el cual sea un portafolio individual para diferentes personas donde pueden subir sus proyectos que han realizado, así como su experiencia esto para que se observe cual es su experiencia en el ámbito, así mismo se tendrá un método para filtrar la expereciencia de aquellas personas que se postulan para que los empleadores encuentren el perfil necesario para ellos. 
